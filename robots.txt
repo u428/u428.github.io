@@ -1,11 +1,11 @@
-# robots.txt for https://license.gov.uz/
+# robots.txt for https://regulation.adliya.uz/
 #
 # Please note: There are a lot of pages on this site, and there are
 # some misbehaved spiders out there that go _way_ too fast. If you're
 # irresponsible, your access to the site may be blocked.
 #
 
-# Observed spamming large amounts of https://license.gov.uz/?curid=NNNNNN
+# Observed spamming large amounts of https://regulation.adliya.uz/?curid=NNNNNN
 # and ignoring 429 ratelimit responses, claims to respect robots:
 # http://mj12bot.com/
 User-agent: MJ12bot
